@@ -14,7 +14,7 @@ struct ContentView: View {
             Text("Hello, world!")
                 .frame(width: 250, height: 60)
                 .background(Color.blue)
-                .cornerRadius(13)
+                .cornerRadius(10)
         }
         .padding()
     }
